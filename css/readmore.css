@@ -88,95 +88,13 @@ body {
 	text-align:right;
 	padding:15px 10px 0 0;
 }
-/*end of navigation style*/
+/*end of navigation styling*/
 
-.top {
-	margin:0 auto;
-	background:#ccc;
-}
-.top p {
-	text-align:center;
-    padding:15px 0 0 0;
-}
-.list1 {
-    padding:0 15px 0 20px;
-}
-.list1 h3 {
+#news h3{
+    margin:25px 0 30px 15px;
     text-decoration:underline;
-    padding:10px 0 0 0;
+    font-family:Tahoma, sans-serif;
 }
-#one img {
-    padding-top:15px;
-    float:left;
-}
-#two img {
-    padding:15px 0 0 20px;
-    float:left;
-}
-#three img {
-    padding:15px 0 0 20px;
-}
-#for_more1 {
-    padding:8px 0 0 230px;
-}
-#for_more1 a {
-    padding-right:10px;
-    text-decoration:none;
-    color:#800080;
-    font-size:18px;
-}
-#for_more1 a:hover {
-    color:#000;
-}
-
-/*end of list one style*/
-.list2 {
-    padding:30px 15px 0 20px;
-    width:850px;
-    float:left;
-}
-.list2 h3 {
-    text-decoration:underline;
-}
-#four img {
-    padding-top:15px;
-    float:left;
-}
-#five img {
-    padding:15px 0 0 20px;
-    float:left;
-}
-#six img {
-    padding:15px 0 0 20px;
-}
-/*end of list two style*/
-#firstpage {
-    float:left;
-    width:700px;
-}
-.clear {
-    clear:both;
-}
-#right {
-    text-align:justify;
-    padding-bottom:15px;
-}
-#right h3 {
-    padding:10px 0 10px 0;
-    text-decoration:underline;
-}
-#right ol li {
-    padding-top:4px;
-}
-#right ol li a {
-    text-decoration:none;
-    color:#800080;
-}
-#right ol li a:hover {
-    color:#000;
-    text-decoration:underline;
-}
-/*end of right side style*/
 #article {
     padding:10px 0 0 20px;
     background:#666666;
@@ -271,24 +189,20 @@ body {
 .article4 a:hover {
     color:#800000;
 }
-/*end of article4*/
-.clear {
+#footer {
+    background:#003366;
     clear:both;
 }
 
-#footer {
-	background:#003366;
-}
-
 #footer p {
-	text-align:center;
-	padding-top:10px;
-	color:#eee;
+    text-align:center;
+    padding-top:10px;
+    color:#eee;
 }
 #footer a {
-	text-decoration:none;
-	color:#ff4444;
+    text-decoration:none;
+    color:#ff4444;
 }
 #footer span {
-	color:#ff4444;
+    color:#ff4444;
 }
